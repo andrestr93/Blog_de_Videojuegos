@@ -2,4 +2,4 @@
 
 **CAPTURAS DE PANTALLA
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title") 
+![Scheme](images/scheme.jpg) 
