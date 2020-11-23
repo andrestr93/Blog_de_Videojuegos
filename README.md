@@ -1,5 +1,5 @@
 # Blog_de_Videojuegos
 
-######CAPTURAS DE PANTALLA
+# CAPTURAS DE PANTALLA
 
 ![Captura1](./captura1.png) 
