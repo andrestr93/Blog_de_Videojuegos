@@ -2,4 +2,4 @@
 
 **CAPTURAS DE PANTALLA
 
-![Scheme](/.Captura.jpg) 
+![Scheme](/.captura1.png) 
